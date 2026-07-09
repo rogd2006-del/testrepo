@@ -1,0 +1,145 @@
+
+
+
+
+Use Fetch Custom Hook
+Banana Data
+Importance: High in potassium and vitamins and fatty acids
+
+Benefits: Energy boost, aids digestions and etc
+
+Time to eat: Morning or as a snack
+
+Spinach
+Importance: Rich in iron and antioxidants
+
+Benefits: Strengthens bones, improves eyesight
+
+Time to eat: Lunch or dinner or breakf=fast
+
+Salmon
+Importance: High in omega-3 fatty acids
+
+Benefits: Promotes heart health, supports brain function
+
+Time to eat: Lunch or dinner
+
+Avocado
+Importance: Rich in healthy fats
+
+Benefits: Aids weight management, supports heart health
+
+Time to eat: Morning or as a snack
+
+Broccoli
+Importance: High in fiber and antioxidants
+
+Benefits: Helps prevent cancer, supports digestive health
+
+Time to eat: Lunch or dinner
+
+Oats
+Importance: Rich in fiber and minerals
+
+Benefits: Lowers cholesterol, regulates blood sugar
+
+Time to eat: Breakfast
+
+Eggs
+Importance: High in protein and nutrients
+
+Benefits: Builds muscles, improves brain health
+
+Time to eat: Breakfast or lunch
+
+Yogurt
+Importance: Rich in probiotics and calcium
+
+Benefits: Supports digestion, strengthens bones
+
+Time to eat: Snack or dessert
+
+Blueberries
+Importance: High in antioxidants and vitamins
+
+Benefits: Boosts brain health, supports heart health
+
+Time to eat: Morning or as a snack
+
+Almonds
+Importance: Rich in healthy fats and antioxidants
+
+Benefits: Promotes heart health, aids weight management
+
+Time to eat: Morning or as a snack
+
+Chicken Breast
+Importance: High in protein
+
+Benefits: Builds lean muscle, aids weight loss
+
+Time to eat: Lunch or dinner
+
+Sweet Potatoes
+Importance: Rich in vitamins and fiber
+
+Benefits: Regulates blood sugar, supports eye health
+
+Time to eat: Lunch or dinner
+
+Quinoa
+Importance: High in protein and fiber
+
+Benefits: Boosts metabolism, supports heart health
+
+Time to eat: Lunch or dinner
+
+Kale
+Importance: Rich in vitamins and antioxidants
+
+Benefits: Strengthens bones, reduces inflammation
+
+Time to eat: Lunch or dinner
+
+Apples
+Importance: Rich in fiber and vitamins
+
+Benefits: Supports heart health, aids digestion
+
+Time to eat: Morning or as a snack
+
+Greek Yogurt
+Importance: Rich in protein and probiotics
+
+Benefits: Aids muscle recovery, supports digestion
+
+Time to eat: Snack or dessert
+
+Carrots
+Importance: High in beta-carotene and minerals
+
+Benefits: Promotes healthy eyesight, boosts immunity
+
+Time to eat: Morning or as a snack
+
+Brown Rice
+Importance: Rich in fiber and minerals
+
+Benefits: Supports digestive health, provides stable energy
+
+Time to eat: Lunch or dinner
+
+Tuna
+Importance: High in protein and omega-3 fatty acids
+
+Benefits: Promotes heart health, aids muscle repair
+
+Time to eat: Lunch or dinner
+
+Oranges
+Importance: Rich in vitamin C and fiber
+
+Benefits: Supports immune system, aids digestion
+
+Time to eat: Morning or as a snack
+
